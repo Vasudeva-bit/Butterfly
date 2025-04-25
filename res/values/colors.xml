@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing colors -->
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colors from the design -->
+    <color name="gradient_top">#6B5B95</color> <!-- Dark Purple -->
+    <color name="gradient_bottom">#FF6F61</color> <!-- Reddish-Pink -->
+    <color name="text_primary">#FFFFFF</color> <!-- White for primary text -->
+    <color name="text_secondary">#D1D1D6</color> <!-- Light Gray for secondary text -->
+    <color name="text_link">#A3A1C5</color> <!-- Light Purple for links -->
+    <color name="input_background">#E6E1F5</color> <!-- Light Purple for input fields -->
+    <color name="button_background">#FFFFFF</color> <!-- White for buttons -->
+    <color name="button_text">#6B5B95</color> <!-- Dark Purple for button text -->
+    <color name="sky_blue">#87CEEB</color>
+</resources>

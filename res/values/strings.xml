@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">"Butterfly"</string>
+    <string-array name="investor_types">
+        <item>Select Investor Type</item>
+        <item>Angel Investor</item>
+        <item>Venture Capitalist</item>
+        <item>Corporate Investor</item>
+        <item>Crowdfunding</item>
+        <item>Private Equity</item>
+    </string-array>
+    <string-array name="industry_types">
+        <item>Select Industry</item>
+        <item>Technology</item>
+        <item>Healthcare</item>
+        <item>Finance</item>
+        <item>Education</item>
+    </string-array>
+</resources>
